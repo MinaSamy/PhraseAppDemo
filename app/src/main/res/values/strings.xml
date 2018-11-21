@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string name="app_name">PhraseAppDemo</string>
-    <string name="first_request">Translation added from PhraseApp</string>
 </resources>
